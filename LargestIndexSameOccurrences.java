@@ -3,6 +3,9 @@
  * at which point X and Y have occurred an equal number of times. For example, given 
  * X = 5, Y = 12 and array A = {1, 4, 5, 6, 2, 4, 12, 12, 1, 12}, the program should 
  * return 6.
+ * 
+ * Results: Task Score 100%
+ *			Completeness 100%
  */
 class LargestIndexSameOccurrences {
     static int solution(int X, int Y, int[] A) {
